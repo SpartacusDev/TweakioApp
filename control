@@ -1,6 +1,6 @@
 Package: com.spartacus.tweakioapp
 Name: TweakioApp
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: A standalone application for Tweakio!
 Depiction: https://spartacusdev.github.io/depictions/tweakioapp.html
@@ -9,4 +9,4 @@ Icon: https://spartacusdev.github.io/images/Tweakio.png
 Maintainer: Spartacus
 Author: Spartacus
 Section: Utilities
-Depends: com.spartacus.tweakio (>= 0.0.7)
+Depends: com.spartacus.tweakio (>= 0.1.1)
